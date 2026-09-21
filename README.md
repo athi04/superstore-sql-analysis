@@ -6,7 +6,7 @@ functions, subqueries), and visualised in Power BI.
 
 ## Dataset
 
-**Sample Superstore** — 9,994 real transactions, 2014–2017. This is a widely
+**Sample Superstore** - 9,994 real transactions, 2014–2017. This is a widely
 used public sample dataset (originally distributed with Tableau, also common
 on Kaggle), sourced here from a public GitHub mirror. It is not proprietary
 company data, and I'm upfront about that. What makes this project non-trivial
