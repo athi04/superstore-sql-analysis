@@ -69,13 +69,6 @@ client, or `sqlite3 retail.db < sql/analysis.sql`.
 - **Subquery** — customers spending above the average customer spend
 - **HAVING on aggregate** — sub-categories that are unprofitable overall
 
-## Dashboard
-
-![Dashboard overview](dashboard/overview.png)
-
-*(add your Power BI screenshots or an exported PDF to `dashboard/` and update
-this section once built)*
-
 ## Key findings & recommendations
 
 **Furniture is a revenue driver but barely profitable.** Furniture brings in
