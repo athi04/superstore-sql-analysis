@@ -36,7 +36,6 @@ data quality issue in it (see below), not the dataset's origin.
 │   └── build_database.py           # loads clean tables into SQLite
 ├── sql/
 │   └── analysis.sql                 # all analytical queries
-├── dashboard/                      # Power BI screenshots / exported PDF
 ├── retail.db                        # SQLite database (generated)
 └── requirements.txt
 ```
