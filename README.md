@@ -1,4 +1,4 @@
-# Superstore SQL & BI Analysis
+# Superstore SQL Analysis
 
 An end-to-end analyst project: a real retail transactions dataset, cleaned and
 normalised into a relational schema, analysed with SQL (joins, CTEs, window
