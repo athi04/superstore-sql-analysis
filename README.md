@@ -2,7 +2,7 @@
 
 An end-to-end analyst project: a real retail transactions dataset, cleaned and
 normalised into a relational schema, analysed with SQL (joins, CTEs, window
-functions, subqueries), and visualised in Power BI.
+functions, subqueries).
 
 ## Dataset
 
@@ -23,7 +23,6 @@ data quality issue in it (see below), not the dataset's origin.
 3. **Loaded** the cleaned tables into a SQLite database — `scripts/build_database.py`.
 4. **Analysed** the data in SQL — `sql/analysis.sql` — covering joins, GROUP BY,
    CTEs, window functions (`LAG`, `RANK`), and a subquery.
-5. **Visualised** the results in Power BI — see `dashboard/`.
 
 ## Repo structure
 
